@@ -60,7 +60,7 @@ This binary definition enables supervised classification while aligning with bus
 ----------
 
 ## 5. Feature Engineering
-### Observation Windows Teste
+### Observation Windows Test
 -   14 days    
 -   30 days    
 -   60 days    
